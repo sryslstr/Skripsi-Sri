@@ -77,8 +77,10 @@ def bytes_to_image_noise(data_bytes):
 # =========================================================
 
 st.set_page_config(page_title="Audit Kriptografi Sri", layout="wide")
-st.title("🛡️ Sistem Keamanan Citra Medis Hybrid")
-st.write("Implementasi Camellia (18 Round) & ECDSA Digital Signature")
+st.title("🛡️ KOMBINASI ALGORITMA CAMELLIA DAN ECDSA UNTUK PENGAMANAN DAN OTENTIKASI
+CITRA MEDIS
+")
+st.write("Implementasi Camellia & ECDSA Digital Signature")
 st.markdown("---")
 
 # --- SIDEBAR: PUSAT AUDIT ---
